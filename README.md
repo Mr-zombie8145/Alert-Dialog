@@ -22,7 +22,7 @@ In your project's build.gradle add the following under dependencies
 
 ```java 
 dependencies {
-    implementation 'com.github.Mr-zombie8145:CFAlertDialog:Tag'
+    implementation 'com.github.Mr-zombie8145:Alert-Dialog:Tag'
 }
 ```
 
