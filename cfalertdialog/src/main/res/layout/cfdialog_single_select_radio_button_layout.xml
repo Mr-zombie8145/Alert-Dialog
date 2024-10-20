@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.AppCompatRadioButton xmlns:tools="http://schemas.android.com/tools"
+    style="@style/CFDialog.SingleSelectItemRadioButton"
+    tools:checked="true"
+    tools:text="radio button text">
+
+</androidx.appcompat.widget.AppCompatRadioButton>
