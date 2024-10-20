@@ -18,6 +18,7 @@ native `AlertDialog`.
 
 ### Install using gradle
 
+
 In your project's build.gradle add the following under dependencies
 
 ```java 
